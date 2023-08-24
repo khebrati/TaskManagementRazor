@@ -15,6 +15,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = /home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement
 build_property._RazorSourceGeneratorDebug = 
 
+[/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/shared/_MainLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvc2hhcmVkL19NYWluTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

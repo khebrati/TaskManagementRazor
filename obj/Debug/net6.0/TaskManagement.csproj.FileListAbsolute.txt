@@ -20,3 +20,5 @@
 /home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/obj/Debug/net6.0/ref/TaskManagement.dll
 /home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/obj/Debug/net6.0/TaskManagement.pdb
 /home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/obj/Debug/net6.0/TaskManagement.genruntimeconfig.cache
+/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/obj/Debug/net6.0/TaskManagement.RazorAssemblyInfo.cache
+/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/obj/Debug/net6.0/TaskManagement.RazorAssemblyInfo.cs
