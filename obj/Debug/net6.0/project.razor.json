@@ -18374,13 +18374,18 @@
   "RootNamespace": "TaskManagement",
   "Documents": [
     {
-      "FilePath": "/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/_ViewStart.cshtml",
-      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FilePath": "/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/_ViewStart.cshtml",
+      "TargetPath": "_ViewStart.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/shared/_MainLayout.cshtml",
       "TargetPath": "Pages\\shared\\_MainLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/Category.cshtml",
+      "TargetPath": "Pages\\Category.cshtml",
       "FileKind": "mvc"
     },
     {
