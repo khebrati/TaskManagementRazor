@@ -27,6 +27,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvc2hhcmVkL19NYWluTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = X1ZpZXdTdGFydC5jc2h0bWw=
+[/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/Pages/_Task.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1Rhc2suY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

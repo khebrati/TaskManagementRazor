@@ -2,16 +2,21 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>ViewData["Title"]</title>
+        <title>@ViewData["Title"]</title>
     </head>
     <body>
         <header>
             <nav>
-                <a href = "/Index" >Home</a>
-                <a href = "/Category" >Category</a>
+                <ul>
+                    <li><a href="/Index">Home</a></li>
+                    <li><a href="/Category">Category</a></li>
+                </ul>
             </nav>
         </header>
-        <h1>List of Tasks</h1>
-        @RenderBody()
+    @RenderBody()
+        <footer>
+            <p>Made with love in Iran</p>
+            <p>CopyRight @DateTime.Now.Year</p>
+        </footer>
     </body>
 </html>
