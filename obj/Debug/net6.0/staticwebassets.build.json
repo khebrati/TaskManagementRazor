@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bkiiJ0boVvQn0za8wh3sRvWasY68y8p9N5VUixGjCik=",
+  "Hash": "rPhzfUsZNAMtxVGSN6p9oi/3lYrr2L5Pn0eTVgUB0OY=",
   "Source": "TaskManagement",
   "BasePath": "_content/TaskManagement",
   "Mode": "Default",
@@ -8,9 +8,9 @@
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [
     {
-      "Name": "TaskManagement/wwwroot",
+      "Name": "TaskManagement\\wwwroot",
       "Source": "TaskManagement",
-      "ContentRoot": "/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/wwwroot/",
+      "ContentRoot": "C:\\Users\\erfan\\IT\\Source\\AspdotnetcoreInAction\\TaskManagement\\wwwroot\\",
       "BasePath": "_content/TaskManagement",
       "Pattern": "**"
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cVFZB76s9JSgH18Ukw47CTNmSlroXaII8LxKh5YlEb7smFZDSrpyjEHOheuxGpOIAJgBLwfoBMny3G3rgUF/2Q==",
+  "dgSpecHash": "vhfzAqpavvxypS4aLKEd3f0DyVAeVYKJ38sUz6BqPJzPqNw/dM/xKg5V7Z3NBwuITAU6Iq4D2sBHP7ak+wlY8A==",
   "success": true,
-  "projectFilePath": "/home/erfan/IT/Source/AspdotnetcoreInAction/TaskManagement/TaskManagement.csproj",
+  "projectFilePath": "C:\\Users\\erfan\\IT\\Source\\AspdotnetcoreInAction\\TaskManagement\\TaskManagement.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

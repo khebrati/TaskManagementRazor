@@ -4,14 +4,14 @@
     Layout = "shared/_MainLayout";
     ViewData["Title"] = "Home";
 }
+<h3>Title</h3>
+<h3>Category</h3>
+<h3>Description</h3>
+<h3>Due Date</h3>
 <ul class = "Tasks">
-    <h3>Title</h3>
-    <h3>Category</h3>
-    <h3>Description</h3>
-    <h3>Due Date</h3>
+    
     @foreach (var task in Model.Tasks)
     {
-        <p>a task </p>
-        <partial name="/Pages/_Task" model= "task" />
+      <li> @await Html.PartialAsync("/Pages/_Task.cshtml", task) </li>
     }
 </ul>
